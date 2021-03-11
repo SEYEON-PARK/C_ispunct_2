@@ -3,15 +3,15 @@
 
 int main(void)
 {
-	char a = '?';
+	char a = '?'; // Л╢┬Й╦╟М≥■
 
 	if (ispunct(a) == 0)
 	{
-		printf("╠╦╣на║юл ╬ф╢у╢о╢ы.\n");
+		printf("Й╣╛К▒░Л═░Л²╢ Л∙└К▀≥К▀┬К▀╓.\n");
 	}
 	else
 	{
-		printf("╠╦╣на║ют╢о╢ы.\n");
+		printf("Й╣╛К▒░Л═░Л·┘К▀┬К▀╓.\n");
 	}
 
 	return 0;
